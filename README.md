@@ -1,3 +1,3 @@
 # js13kgames2017_endversion
 
-project for js13kgames 2017
+Game on web. Project for js13kgames2017
