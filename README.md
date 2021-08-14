@@ -2,4 +2,4 @@
 
 Game on web. Project for js13kgames2017
 
-[Link](knyazer.github.io/Fighter-planes/)
+[Link](https://knyazer.github.io/Fighter-planes/)
